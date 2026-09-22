@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:05:42.859Z",
+  "generated_at": "2026-09-22T05:19:01.501Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-22T05:05:38.678Z",
       "last_pushed_at": "2026-09-22T05:05:38.678Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-22T05:19:00.620Z",
+      "last_pushed_at": "2026-09-22T05:19:00.620Z"
     }
   }
 }
